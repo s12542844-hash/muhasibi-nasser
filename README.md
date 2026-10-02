@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar" dir="rtl" class="dark">
 <head>
     <meta charset="UTF-8">
